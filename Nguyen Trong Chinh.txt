@@ -1,0 +1,17 @@
+Tạo class student có các property sau: 2 diem
+Id, Name, Gender, Age, Date of birth, Class, Mark1, Mark 2, Mark 3 và 1
+method:
+- mark_AVG(): trả về mark trung bình của student. 2 diem
+Tạo class TestStudent thực hiện các nhiệm vụ sau: (using Collection ) (10p) - tạo
+method để nhập thông tin của 1 student 2 diem
+- Tạo method để tìm kiếm 1 student bằng name. 2 diem
+- Tạo method để chỉnh sửa thông tin của student. 
+- Tạo method để xoá student bằng id. 2 diem
+- Tạo method để sắp xếp các student theo thứ tự tăng dần của mark trung bình. 2 diem
+Khi chạy chương trình, người dùng có thể chọn chức năng như hình dưới: 3 diem
+Tất cả các trường thông tin cần được validate như
+sau (8p)
+- Tất cả các field không rỗng (empty string).
+- Mark là số
+- Mark là số [0 and 100].
+Tong 15
